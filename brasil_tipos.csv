@@ -1,0 +1,34 @@
+CID,Câncer,Incidência,Mortalidade,Taxa de mortalidade
+C67,Bexiga,15854,5630,35.5%
+C70-72,Cérebro (sistema nervoso central),12260,10920,89.1%
+C50,Seio,88492,20725,23.4%
+C53,Colo de útero,17743,9168,51.7%
+C18-21,Cólon,55102,26170,47.5%
+C54,Endométrio,11791,3090,26.2%
+C23,Vesícula biliar,2027,1306,64.4%
+C81,Linfoma de Hodgkin,3254,727,22.3%
+C12-13,Hipofaringe,1498,720,48.1%
+C46,Sarcoma de Kaposi,779,154,19.8%
+C64-65,Rim,11971,4753,39.7%
+C32,Laringe,7995,5368,67.1%
+C91-95,Leucemia,11396,8448,74.1%
+C00-06,Lábio (cavidade oral),9839,4198,42.7%
+C22,Fígado,12674,12139,95.8%
+C33-34,Pulmão,40409,35160,87.0%
+C43,Melanoma de pele,8624,2246,26.0%
+C45,Mesotelioma,150,130,86.7%
+C88+C90,Mieloma múltiplo,5655,4293,75.9%
+C11,Nasofaringe,836,471,56.3%
+C82-86 and  C96,Linfoma não Hodgkin,11445,5447,47.6%
+C15,Esôfago,10363,9786,94.4%
+C09-10,Orofaringe,5308,3243,61.1%
+C56,Ovário,7298,4925,67.5%
+C25,Pâncreas,13307,12911,97.0%
+C60,Pênis,1658,539,32.5%
+C61,Próstata,97278,18345,18.9%
+C07-08,Glândulas salivares,1550,425,27.4%
+C16,Estômago,20139,15783,78.4%
+C62,Testículo,3388,500,14.8%
+C73,Tireoide,30607,1081,3.5%
+C52,Vagina,377,134,35.5%
+C51,Vulva,1519,577,38.0%
